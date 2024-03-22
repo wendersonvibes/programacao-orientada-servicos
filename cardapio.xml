@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio>
+    <prato id="P01">
+        <nome>Hambúrguer de siri</nome>
+        <descricao>Hambúrguer feito de siri</descricao>
+        <ingredientes>Siri</ingredientes>
+        <preco>R$ 10,00</preco>
+        <tempopreparo>10 minutos</tempopreparo>
+        <calorias>94 kcal</calorias>
+    </prato>
+
+    <prato id="P02">
+        <nome>Siri de hambúrguer</nome>
+        <descricao>Siri feito de hambúrguer</descricao>
+        <ingredientes>Hambúrguer</ingredientes>
+        <preco>R$ 10,00</preco>
+        <tempopreparo>20 minutos</tempopreparo>
+        <calorias>49 kcal</calorias>
+    </prato>
+
+    <prato id="P03">
+        <nome>Chocolate de ovo</nome>
+        <descricao>Não é chocolate</descricao>
+        <ingredientes>Ovo</ingredientes>
+        <preco>R$ 10,00</preco>
+        <tempopreparo>30 minutos</tempopreparo>
+        <calorias>68 kcal</calorias>
+    </prato>
+
+    <prato id="P04">
+        <nome>Lasanha de chocolate</nome>
+        <descricao>É lasanha</descricao>
+        <ingredientes>Chocolate derretido, queijo mussarela, frango, leite condensado</ingredientes>
+        <preco>R$ 10,00</preco>
+        <tempopreparo>40 minutos</tempopreparo>
+        <calorias>400 kcal</calorias>
+    </prato>
+
+    <prato id="P05">
+        <nome>Feijão com calabresa</nome>
+        <descricao>É feijão</descricao>
+        <ingredientes>Feijão, calabresa, água</ingredientes>
+        <preco>R$ 10,00</preco>
+        <tempopreparo>50 minutos</tempopreparo>
+        <calorias>130 kcal</calorias>
+    </prato>
+</cardapio>
